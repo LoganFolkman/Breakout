@@ -115,7 +115,7 @@ public class Breakout extends GraphicsProgram {
 
             }
 
-
+            //test
             if(obj instanceof Brick){
                 // bounce the ball
                 ball.bounce();
